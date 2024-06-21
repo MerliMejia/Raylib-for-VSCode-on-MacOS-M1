@@ -16,3 +16,5 @@ This repo allows you to easily setup and run Raylib on MacOS M1 with VSCode.
 2. Open the repo in VSCode
 3. Run the `init` task by pressing `Cmd + Shift + P` and typing `Tasks: Run Task` and selecting `init`. This will create a `build` directory and generate the necessary files.
 4. Just hit `F5` to run the project. You can add breakpoints and debug as you would normally.
+
+Checkout the HOW TO video for an example of how to use it: [HOW TO](https://github.com/MerliMejia/Raylib-for-VSCode-on-MacOS-M1/raw/master/HOW%20TO.mp4)
